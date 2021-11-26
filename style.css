@@ -37,14 +37,14 @@ main {
   align-items: center;
   width: 50%;
   height: 100%;
-  padding: 5.5rem 0;
+  padding: 4.2rem 0;
   transition: all 0.75s;
   border-radius: 30px;
 
 }
 
 .player h2 {
-  font-size: 2.8rem;
+  font-size: 2.2rem;
   font-weight: 300;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -52,7 +52,7 @@ main {
 }
 
 .score {
-  font-size: 5.5rem;
+  font-size: 4.8rem;
   font-weight: 300;
   color: #c7365f;
 }
@@ -72,9 +72,9 @@ main {
 }
 
 .current{
-  margin-top: 12rem;
+  margin-top: 9rem;
   padding: 1rem ;
-  width: 40%;
+  width: 35%;
   border-radius: 10px;
   background-color: #c7365f;
   color: #fff;
@@ -84,7 +84,7 @@ main {
 }
 
 .current_label{
-  font-size: 1rem;
+  font-size: .8rem;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #ddd;
@@ -92,7 +92,7 @@ main {
 }
 
 .current_score{
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .dice{
@@ -113,7 +113,7 @@ main {
   background: none;
   border: none;
   font-family: inherit;
-  font-size: 1.1rem;
+  font-size: 1rem;
   text-transform: uppercase;
   cursor: pointer;
   font-weight: 700;
@@ -141,7 +141,7 @@ main {
 }
 
 .btn::first-letter{
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   margin-right: 5px;
   display: inline-block;
 }
