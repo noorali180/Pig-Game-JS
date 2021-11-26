@@ -14,5 +14,5 @@ originally the UI looks like this.👆
 
 (hope 👆 will help to understand the strategy.)
 
-<img src = "screenshot_2.PNG" >
+<img src = "screenshot_2.PNG"  >
 
